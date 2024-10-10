@@ -1,0 +1,17 @@
+*{
+    padding: 0;
+    margin: 0;
+    background-color: darkslategray;
+}
+h1{
+    margin: 20px;
+}
+h1, a{
+    color: whitesmoke;
+}
+
+.myLogo{
+    width: 200px;
+    height: 150px;
+    padding: 20px;
+}
